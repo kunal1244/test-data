@@ -52,8 +52,7 @@
 
     //countries which have states, needed to toggle visibility
     //for USA/ etc. either show countries or states, not both
-    var usa, canada; 
-    var states; //track states
+    var states, counties; //track states
     //track where mouse was clicked
     var initX;
     //track scale only rotate when s === 1
@@ -109,7 +108,7 @@
     var g = svg.append("g");
 
     //det json data and draw it
-    d3.json("combined2.json", function(error, world) {
+    d3.json("https://raw.githubusercontent.com/kunal1244/test-data/main/combined2.json", function(error, world) {
       if(error) return console.error(error);
 
       //countries
@@ -127,10 +126,8 @@
            })
           .attr("d", path);
 
-      usa = d3.select('#USA');
-      canada = d3.select('#CAN');
         
-      //states
+      // //states
       g.append("g")
           .attr("class", "boundary state hidden")
         .selectAll("boundary")
@@ -145,11 +142,34 @@
            })
           .attr("d", path);
 
+      g.append("g")
+          .attr("class", "boundary county hidden")
+        .selectAll("boundary")
+          .data(topojson.feature(world, world.objects.counties).features)
+          .enter().append("path")
+          .attr("name", function(d) { 
+            if(d.properties.name != undefined) return d.properties.name;
+            else return d.properties.cname;
+          })
+          .attr("id", function(d) { 
+            if(d.id != undefined) return d.id;
+            else return d.properties["ID_1"] + "-" + d.properties["ID_2"];
+          })
+          .on('click', selected)
+          .on("mousemove", showTooltip)
+          .on("mouseout",  function(d,i) {
+              tooltip.classed("hidden", true);
+           })
+          .attr("d", path);
+
       states = d3.selectAll('.state');
+      counties = d3.selectAll('.county');
     });
 
     function showTooltip(d) {
-      label = d.properties.name;
+      var label;
+      if(d.properties.name != undefined) label = d.properties.name;
+      else label = d.properties.cname;
       var mouse = d3.mouse(svg.node())
         .map( function(d) { return parseInt(d); } );
       tooltip.classed("hidden", false)
@@ -192,19 +212,19 @@
       
       //toggle state/USA visability
       if(s > 1.5) {
+        if(s > 2.5){
+          counties
+            .classed('hidden', false)
+        }
+        else {
+          counties
+            .classed('hidden', true)
+        }
         states
           .classed('hidden', false);
-        usa
-          .classed('hidden', true);
-        canada
-          .classed('hidden', true);
       } else {
       states
         .classed('hidden', true);
-      usa
-        .classed('hidden', false);
-      canada
-        .classed('hidden', false);
     }
   }
   </script>
