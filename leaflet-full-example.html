@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Leaflet Map Intro</title>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<!-- Leaflet -->
+	<link rel="stylesheet" href="_leaflet/plugins/leaflet/leaflet.css" />
+	<script src="_leaflet/plugins/leaflet/leaflet.js"></script>
+	<script src="https://api.mapbox.com/mapbox.js/plugins/leaflet-hash/v0.2.1/leaflet-hash.js"></script>
+	<!-- Omnivore -->
+	<script src="_leaflet/plugins/omnivore/leaflet-omnivore.min.js"></script>
+	<!-- Search -->
+	<link rel="stylesheet" href="_leaflet/plugins/search/leaflet-search.min.css" />
+	<script src="_leaflet/plugins/search/leaflet-search.min.js"></script>
+	<!--Choropleth -->
+	<script src="_leaflet/plugins/choropleth/choropleth.js"></script>
+	<script src="http://leaflet.github.io/Leaflet.heat/dist/leaflet-heat.js"></script>
+	<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+	<script src="https://d3js.org/d3.v4.min.js"></script>
+	<style>
+		body,
+		html {
+			height: 100%;
+			width: 100%;
+			margin: 0;
+		}
+
+		#map {
+			width: 70%;
+			height: 100%;
+			background: whitesmoke;
+		}
+	</style>
+</head>
+
+<body>
+	<div id = "info" style="float: right; margin-top: 100px;"></div>
+	<div id="map"></div>
+	<script>
+		var map = L.map("map");
+
+		map.setView([40.3, -96.6], 5);
+
+		L.hash(map);
+
+		L.control.scale().addTo(map);
+
+		var layerControl = L.control.layers().addTo(map);
+
+		var tileUrl = 'https://tile.openstreetmap.org/{z}/{x}/{y}.png';
+		var attribution = '© OpenStreetMap, Tiles courtesy of Humanitarian OpenStreetMap Team';
+
+		var OpenStreetMap_HOT = L.tileLayer(tileUrl, {
+			maxZoom: 19,
+			// attribution: attribution,
+			opacity: 0.8
+		}).addTo(map);
+
+		layerControl.addBaseLayer(OpenStreetMap_HOT, "Streets");
+
+
+		$.getJSON('https://raw.githubusercontent.com/kunal1244/test-data/main/heat-data.json', function (data) {
+			var addressPoints = data.addressPoints.map(function (p) { return [p[0], p[1]]; });
+			var heat = L.heatLayer(addressPoints).addTo(map);
+			layerControl.addOverlay(heat, "Heat");
+		});
+
+
+		var url = "https://raw.githubusercontent.com/ovrdc/gis-tutorials/master/tutorial-data/counties.topojson";
+
+		var counties = L.geoJson(null, {
+			style: function(feature) {
+				switch (feature.properties.winner) {
+					case "Trump":
+						return {
+							fillColor: "red",
+							fillOpacity: 0.4,
+							color: 'white',
+							weight: 1
+						}
+					default:
+						return {
+							fillColor: "blue",
+							fillOpacity: 0.4,
+							color: 'white',
+							weight: 1
+						}
+				}
+			},
+			onEachFeature: function(feature, county) {
+				var info = county.feature.properties.NAME +
+					"<br>" + county.feature.properties.winner;
+				county.bindPopup(info);
+			}
+		}).addTo(map);
+
+		layerControl.addOverlay(counties, "Counties");
+
+		var cData = omnivore.topojson(url, null, counties);
+
+		// Once our county data is loaded, add search functionality using leaflet-search with default settings
+
+		// Search
+
+		cData.on("ready", function() {
+
+		var searchControl = new L.Control.Search({
+			layer: counties,
+			propertyName: 'NAME',
+		}).addTo(map);
+
+		});
+
+		var choropleth;
+
+		cData.on("ready", function() {
+			//map.removeLayer(counties);
+			choropleth = L.choropleth(cData.toGeoJSON(), {
+				valueProperty: "POP_SQMI", // which property in the features to use
+				scale: ["white", "#006d2c"], // chroma.js scale - include as many as you like
+				steps: 7, // number of breaks or steps in range
+				mode: "q", // q for quantile, e for equidistant, k for k-means
+				style: {
+					color: "#fff", // border color
+					weight: 1,
+					fillOpacity: 0.9
+				},
+				onEachFeature: function(feature, layer) {
+					layer.bindTooltip(feature.properties.NAME + '<' + 'br' + '>' + feature.properties.POPULATION);
+					layer.on('click', function (e) {
+						var detail = feature.properties;
+						document.getElementById("info").innerHTML = '<svg width="300" height="200" style="margin-right:100px"> </svg><br><br><br><br><p style="margin-left:100px">' + detail.NAME + '<' + 'br' + '>' + detail.winner + '<' + 'br' + '>' + detail.POP_SQMI + '<' + 'br' + '>' + detail.state + '<' + 'br' + '>' + detail.per_gop + '<' + 'br' + '>' + detail.per_dem + '</p>';
+						var data = [detail.per_dem, detail.per_gop];
+
+						var svg = d3.select("svg"),
+							width = svg.attr("width"),
+							height = svg.attr("height"),
+							radius = Math.min(width, height) / 2,
+							g = svg.append("g").attr("transform", "translate(" + width / 2 + "," + height / 2 + ")");
+
+						var color = d3.scaleOrdinal(['#4daf4a','#377eb8','#ff7f00','#984ea3','#e41a1c']);
+
+						// Generate the pie
+						var pie = d3.pie();
+
+						// Generate the arcs
+						var arc = d3.arc()
+									.innerRadius(0)
+									.outerRadius(radius);
+
+						//Generate groups
+						var arcs = g.selectAll("arc")
+									.data(pie(data))
+									.enter()
+									.append("g")
+									.attr("class", "arc")
+
+						//Draw arc paths
+						arcs.append("path")
+							.attr("fill", function(d, i) {
+								return color(i);
+							})
+							.attr("d", arc);
+					});
+				}
+			});
+			layerControl.addOverlay(choropleth, "Choropleth");
+		});
+
+		// var url2 = "https://raw.githubusercontent.com/ovrdc/gis-tutorials/master/tutorial-data/airports.geojson"
+
+		// var aStyle = {
+		// 	color: "black",
+		// 	radius: 5,
+		// 	weight: 0,
+		// 	fillOpacity: 1,
+		// 	pane: "markerPane"
+		// };
+
+		// var airports = L.geoJson(null, {
+		// 	pointToLayer: function(feature, latlng) {
+		// 		return L.circleMarker(latlng, aStyle)
+		// 	}
+		// });
+
+		// var aData = omnivore.geojson(url2, null, airports);
+
+		// var airportJson;
+
+		// aData.on('ready', function() {
+		// 	aData.toGeoJSON();
+		// 	airportJson = aData.toGeoJSON();
+		// });
+
+		// var highlightStyle = {
+		// 	color: "goldenrod",
+		// 	fillColor: "goldenrod",
+		// 	opacity: 1,
+		// 	fillOpacity: 1,
+		// 	pane: "markerPane"
+		// }
+
+		// var highlight = new L.geoJson(null, {
+		// 	pointToLayer: function(feature, latlng) {
+		// 		return new L.circleMarker(latlng, highlightStyle)
+		// 	}
+		// }).addTo(map);
+
+		// counties.on("mouseover", function(e) {
+		// 	highlight.clearLayers();
+		// 	var selLayer = new L.geoJson(e.layer.toGeoJSON());
+		// 	var within = turf.within(airportJson, selLayer.toGeoJSON());
+		// 	highlight.addData(within);
+		// });
+	</script>
+</body>
+
+</html>
