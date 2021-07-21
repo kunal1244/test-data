@@ -1,0 +1,3637 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-05T00:00:00.000",
+                "ACCIDENT TIME": "16:30",
+                "LATITUDE": "40.676052",
+                "LONGITUDE": "-73.790184"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.790184,
+                    40.676052
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-27T00:00:00.000",
+                "ACCIDENT TIME": "16:02",
+                "LATITUDE": "40.65778",
+                "LONGITUDE": "-73.951096"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.951096,
+                    40.65778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-15T00:00:00.000",
+                "ACCIDENT TIME": "17:57",
+                "LATITUDE": "40.718143",
+                "LONGITUDE": "-73.993835"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.993835,
+                    40.718143
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-30T00:00:00.000",
+                "ACCIDENT TIME": "21:53",
+                "LATITUDE": "40.840534",
+                "LONGITUDE": "-73.86661"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.86661,
+                    40.840534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-06T00:00:00.000",
+                "ACCIDENT TIME": "9:45",
+                "LATITUDE": "40.74544",
+                "LONGITUDE": "-73.9754"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9754,
+                    40.74544
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-29T00:00:00.000",
+                "ACCIDENT TIME": "12:28",
+                "LATITUDE": "40.726524",
+                "LONGITUDE": "-73.94639"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94639,
+                    40.726524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-31T00:00:00.000",
+                "ACCIDENT TIME": "2:16",
+                "LATITUDE": "40.667522",
+                "LONGITUDE": "-73.78063"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.78063,
+                    40.667522
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-11T00:00:00.000",
+                "ACCIDENT TIME": "22:23",
+                "LATITUDE": "40.85821",
+                "LONGITUDE": "-73.91679"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.91679,
+                    40.85821
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-02T00:00:00.000",
+                "ACCIDENT TIME": "16:30",
+                "LATITUDE": "40.666492",
+                "LONGITUDE": "-73.76536"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.76536,
+                    40.666492
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-21T00:00:00.000",
+                "ACCIDENT TIME": "17:30",
+                "LATITUDE": "40.83772",
+                "LONGITUDE": "-73.92763"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.92763,
+                    40.83772
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-20T00:00:00.000",
+                "ACCIDENT TIME": "14:25",
+                "LATITUDE": "40.68164",
+                "LONGITUDE": "-73.98568"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.98568,
+                    40.68164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-17T00:00:00.000",
+                "ACCIDENT TIME": "14:02",
+                "LATITUDE": "40.644047",
+                "LONGITUDE": "-73.95747"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95747,
+                    40.644047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-20T00:00:00.000",
+                "ACCIDENT TIME": "10:30",
+                "LATITUDE": "40.698463",
+                "LONGITUDE": "-73.960205"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.960205,
+                    40.698463
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-04T00:00:00.000",
+                "ACCIDENT TIME": "23:09",
+                "LATITUDE": "40.716652",
+                "LONGITUDE": "-73.8259"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.8259,
+                    40.716652
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-12T00:00:00.000",
+                "ACCIDENT TIME": "11:20",
+                "LATITUDE": "40.67855",
+                "LONGITUDE": "-73.81422"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.81422,
+                    40.67855
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-09T00:00:00.000",
+                "ACCIDENT TIME": "18:30",
+                "LATITUDE": "40.72089",
+                "LONGITUDE": "-73.99576"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.99576,
+                    40.72089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-07T00:00:00.000",
+                "ACCIDENT TIME": "13:25",
+                "LATITUDE": "40.681557",
+                "LONGITUDE": "-73.966545"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.966545,
+                    40.681557
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-27T00:00:00.000",
+                "ACCIDENT TIME": "17:06",
+                "LATITUDE": "40.865726",
+                "LONGITUDE": "-73.887344"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.887344,
+                    40.865726
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-16T00:00:00.000",
+                "ACCIDENT TIME": "17:20",
+                "LATITUDE": "40.523136",
+                "LONGITUDE": "-74.21625"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.21625,
+                    40.523136
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-25T00:00:00.000",
+                "ACCIDENT TIME": "11:58",
+                "LATITUDE": "40.836994",
+                "LONGITUDE": "-73.92585"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.92585,
+                    40.836994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-06T00:00:00.000",
+                "ACCIDENT TIME": "16:50",
+                "LATITUDE": "40.616653",
+                "LONGITUDE": "-73.97234"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.97234,
+                    40.616653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-15T00:00:00.000",
+                "ACCIDENT TIME": "16:11",
+                "LATITUDE": "40.756207",
+                "LONGITUDE": "-73.99136"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.99136,
+                    40.756207
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-21T00:00:00.000",
+                "ACCIDENT TIME": "19:15",
+                "LATITUDE": "40.757107",
+                "LONGITUDE": "-73.997314"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.997314,
+                    40.757107
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-29T00:00:00.000",
+                "ACCIDENT TIME": "7:55",
+                "LATITUDE": "40.735798",
+                "LONGITUDE": "-73.976105"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.976105,
+                    40.735798
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-11-26T00:00:00.000",
+                "ACCIDENT TIME": "0:00",
+                "LATITUDE": "40.625843",
+                "LONGITUDE": "-73.95537"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95537,
+                    40.625843
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-28T00:00:00.000",
+                "ACCIDENT TIME": "17:00",
+                "LATITUDE": "40.70912",
+                "LONGITUDE": "-73.9685"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9685,
+                    40.70912
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-21T00:00:00.000",
+                "ACCIDENT TIME": "22:21",
+                "LATITUDE": "40.65422",
+                "LONGITUDE": "-73.92386"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.92386,
+                    40.65422
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-20T00:00:00.000",
+                "ACCIDENT TIME": "11:00",
+                "LATITUDE": "40.773663",
+                "LONGITUDE": "-73.90239"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.90239,
+                    40.773663
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-29T00:00:00.000",
+                "ACCIDENT TIME": "16:00",
+                "LATITUDE": "40.74348",
+                "LONGITUDE": "-73.921486"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.921486,
+                    40.74348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-12T00:00:00.000",
+                "ACCIDENT TIME": "13:00",
+                "LATITUDE": "40.648376",
+                "LONGITUDE": "-73.96579"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.96579,
+                    40.648376
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-26T00:00:00.000",
+                "ACCIDENT TIME": "21:44",
+                "LATITUDE": "40.839615",
+                "LONGITUDE": "-73.90489"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.90489,
+                    40.839615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-17T00:00:00.000",
+                "ACCIDENT TIME": "12:00",
+                "LATITUDE": "40.74443",
+                "LONGITUDE": "-73.76506"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.76506,
+                    40.74443
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-04T00:00:00.000",
+                "ACCIDENT TIME": "19:30",
+                "LATITUDE": "40.6034",
+                "LONGITUDE": "-73.97181"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.97181,
+                    40.6034
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-12T00:00:00.000",
+                "ACCIDENT TIME": "13:30",
+                "LATITUDE": "40.71307",
+                "LONGITUDE": "-73.77527"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.77527,
+                    40.71307
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-26T00:00:00.000",
+                "ACCIDENT TIME": "15:00",
+                "LATITUDE": "40.704853",
+                "LONGITUDE": "-73.791664"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.791664,
+                    40.704853
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-02T00:00:00.000",
+                "ACCIDENT TIME": "14:50",
+                "LATITUDE": "40.750015",
+                "LONGITUDE": "-73.991356"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.991356,
+                    40.750015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-20T00:00:00.000",
+                "ACCIDENT TIME": "23:30",
+                "LATITUDE": "40.72935",
+                "LONGITUDE": "-73.910194"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.910194,
+                    40.72935
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-07T00:00:00.000",
+                "ACCIDENT TIME": "22:38",
+                "LATITUDE": "40.80396",
+                "LONGITUDE": "-73.94828"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94828,
+                    40.80396
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-24T00:00:00.000",
+                "ACCIDENT TIME": "2:37",
+                "LATITUDE": "40.64986",
+                "LONGITUDE": "-74.01972"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.01972,
+                    40.64986
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-11T00:00:00.000",
+                "ACCIDENT TIME": "7:55",
+                "LATITUDE": "40.684624",
+                "LONGITUDE": "-73.93838"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.93838,
+                    40.684624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-23T00:00:00.000",
+                "ACCIDENT TIME": "15:15",
+                "LATITUDE": "40.534813",
+                "LONGITUDE": "-74.194115"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.194115,
+                    40.534813
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-28T00:00:00.000",
+                "ACCIDENT TIME": "14:40",
+                "LATITUDE": "40.81821",
+                "LONGITUDE": "-73.96144"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.96144,
+                    40.81821
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-23T00:00:00.000",
+                "ACCIDENT TIME": "15:37",
+                "LATITUDE": "40.578274",
+                "LONGITUDE": "-73.95827"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95827,
+                    40.578274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-27T00:00:00.000",
+                "ACCIDENT TIME": "9:27",
+                "LATITUDE": "40.83223",
+                "LONGITUDE": "-73.875244"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.875244,
+                    40.83223
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-14T00:00:00.000",
+                "ACCIDENT TIME": "12:00",
+                "LATITUDE": "40.67653",
+                "LONGITUDE": "-73.75693"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.75693,
+                    40.67653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-03T00:00:00.000",
+                "ACCIDENT TIME": "12:45",
+                "LATITUDE": "40.68841",
+                "LONGITUDE": "-73.84794"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.84794,
+                    40.68841
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-13T00:00:00.000",
+                "ACCIDENT TIME": "0:05",
+                "LATITUDE": "40.696663",
+                "LONGITUDE": "-73.98085"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.98085,
+                    40.696663
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-29T00:00:00.000",
+                "ACCIDENT TIME": "10:00",
+                "LATITUDE": "40.769333",
+                "LONGITUDE": "-73.841736"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.841736,
+                    40.769333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-17T00:00:00.000",
+                "ACCIDENT TIME": "14:00",
+                "LATITUDE": "40.756367",
+                "LONGITUDE": "-73.96012"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.96012,
+                    40.756367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-03T00:00:00.000",
+                "ACCIDENT TIME": "21:00",
+                "LATITUDE": "40.782055",
+                "LONGITUDE": "-73.95373"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95373,
+                    40.782055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-14T00:00:00.000",
+                "ACCIDENT TIME": "11:30",
+                "LATITUDE": "40.724552",
+                "LONGITUDE": "-73.72452"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.72452,
+                    40.724552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-22T00:00:00.000",
+                "ACCIDENT TIME": "10:28",
+                "LATITUDE": "40.593327",
+                "LONGITUDE": "-73.964645"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.964645,
+                    40.593327
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-17T00:00:00.000",
+                "ACCIDENT TIME": "8:53",
+                "LATITUDE": "40.615383",
+                "LONGITUDE": "-74.01613"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.01613,
+                    40.615383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-07T00:00:00.000",
+                "ACCIDENT TIME": "15:33",
+                "LATITUDE": "40.58493",
+                "LONGITUDE": "-73.95269"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95269,
+                    40.58493
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-23T00:00:00.000",
+                "ACCIDENT TIME": "6:31",
+                "LATITUDE": "40.74073",
+                "LONGITUDE": "-73.981766"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.981766,
+                    40.74073
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-23T00:00:00.000",
+                "ACCIDENT TIME": "0:00",
+                "LATITUDE": "40.809563",
+                "LONGITUDE": "-73.92923"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.92923,
+                    40.809563
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-28T00:00:00.000",
+                "ACCIDENT TIME": "8:00",
+                "LATITUDE": "40.661522",
+                "LONGITUDE": "-74.00008"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.00008,
+                    40.661522
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-21T00:00:00.000",
+                "ACCIDENT TIME": "18:50",
+                "LATITUDE": "40.651363",
+                "LONGITUDE": "-73.96345"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.96345,
+                    40.651363
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-10T00:00:00.000",
+                "ACCIDENT TIME": "7:50",
+                "LATITUDE": "40.666695",
+                "LONGITUDE": "-73.767136"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.767136,
+                    40.666695
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-29T00:00:00.000",
+                "ACCIDENT TIME": "8:17",
+                "LATITUDE": "40.676327",
+                "LONGITUDE": "-73.86547"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.86547,
+                    40.676327
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-04T00:00:00.000",
+                "ACCIDENT TIME": "1:45",
+                "LATITUDE": "40.85265",
+                "LONGITUDE": "-73.84231"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.84231,
+                    40.85265
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-11T00:00:00.000",
+                "ACCIDENT TIME": "14:45",
+                "LATITUDE": "40.683548",
+                "LONGITUDE": "-73.87251"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.87251,
+                    40.683548
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-07T00:00:00.000",
+                "ACCIDENT TIME": "7:00",
+                "LATITUDE": "40.672382",
+                "LONGITUDE": "-73.78574"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.78574,
+                    40.672382
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-28T00:00:00.000",
+                "ACCIDENT TIME": "18:36",
+                "LATITUDE": "40.700054",
+                "LONGITUDE": "-73.92459"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.92459,
+                    40.700054
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-05T00:00:00.000",
+                "ACCIDENT TIME": "12:00",
+                "LATITUDE": "40.75199",
+                "LONGITUDE": "-73.931274"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.931274,
+                    40.75199
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-27T00:00:00.000",
+                "ACCIDENT TIME": "14:38",
+                "LATITUDE": "40.669273",
+                "LONGITUDE": "-73.922554"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.922554,
+                    40.669273
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-18T00:00:00.000",
+                "ACCIDENT TIME": "12:00",
+                "LATITUDE": "40.570465",
+                "LONGITUDE": "-74.10977"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.10977,
+                    40.570465
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-07T00:00:00.000",
+                "ACCIDENT TIME": "9:08",
+                "LATITUDE": "40.804134",
+                "LONGITUDE": "-73.93684"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.93684,
+                    40.804134
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-14T00:00:00.000",
+                "ACCIDENT TIME": "19:00",
+                "LATITUDE": "40.749184",
+                "LONGITUDE": "-73.758194"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.758194,
+                    40.749184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-28T00:00:00.000",
+                "ACCIDENT TIME": "10:00",
+                "LATITUDE": "40.753475",
+                "LONGITUDE": "-73.99254"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.99254,
+                    40.753475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-04T00:00:00.000",
+                "ACCIDENT TIME": "16:15",
+                "LATITUDE": "40.702614",
+                "LONGITUDE": "-73.96058"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.96058,
+                    40.702614
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-17T00:00:00.000",
+                "ACCIDENT TIME": "15:50",
+                "LATITUDE": "40.664192",
+                "LONGITUDE": "-73.87759"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.87759,
+                    40.664192
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-11T00:00:00.000",
+                "ACCIDENT TIME": "16:00",
+                "LATITUDE": "40.76229",
+                "LONGITUDE": "-73.75711"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.75711,
+                    40.76229
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-03T00:00:00.000",
+                "ACCIDENT TIME": "9:45",
+                "LATITUDE": "40.757534",
+                "LONGITUDE": "-73.86658"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.86658,
+                    40.757534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-21T00:00:00.000",
+                "ACCIDENT TIME": "16:45",
+                "LATITUDE": "40.640945",
+                "LONGITUDE": "-73.94852"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94852,
+                    40.640945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-19T00:00:00.000",
+                "ACCIDENT TIME": "14:38",
+                "LATITUDE": "40.766617",
+                "LONGITUDE": "-73.864975"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.864975,
+                    40.766617
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-30T00:00:00.000",
+                "ACCIDENT TIME": "21:21",
+                "LATITUDE": "40.68488",
+                "LONGITUDE": "-73.92311"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.92311,
+                    40.68488
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-05T00:00:00.000",
+                "ACCIDENT TIME": "0:00",
+                "LATITUDE": "40.61834",
+                "LONGITUDE": "-74.03199"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.03199,
+                    40.61834
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-16T00:00:00.000",
+                "ACCIDENT TIME": "21:45",
+                "LATITUDE": "40.613953",
+                "LONGITUDE": "-73.93353"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.93353,
+                    40.613953
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-24T00:00:00.000",
+                "ACCIDENT TIME": "3:20",
+                "LATITUDE": "40.72402",
+                "LONGITUDE": "-73.763535"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.763535,
+                    40.72402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-21T00:00:00.000",
+                "ACCIDENT TIME": "0:00",
+                "LATITUDE": "40.742252",
+                "LONGITUDE": "-74.00071"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.00071,
+                    40.742252
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-12T00:00:00.000",
+                "ACCIDENT TIME": "8:50",
+                "LATITUDE": "40.720634",
+                "LONGITUDE": "-73.94082"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94082,
+                    40.720634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-06T00:00:00.000",
+                "ACCIDENT TIME": "15:50",
+                "LATITUDE": "40.667522",
+                "LONGITUDE": "-73.78063"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.78063,
+                    40.667522
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-21T00:00:00.000",
+                "ACCIDENT TIME": "7:00",
+                "LATITUDE": "40.839615",
+                "LONGITUDE": "-73.88443"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.88443,
+                    40.839615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-18T00:00:00.000",
+                "ACCIDENT TIME": "17:02",
+                "LATITUDE": "40.615353",
+                "LONGITUDE": "-73.89708"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.89708,
+                    40.615353
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-26T00:00:00.000",
+                "ACCIDENT TIME": "14:35",
+                "LATITUDE": "40.682537",
+                "LONGITUDE": "-73.80716"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.80716,
+                    40.682537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-05T00:00:00.000",
+                "ACCIDENT TIME": "19:00",
+                "LATITUDE": "40.76769",
+                "LONGITUDE": "-73.9831"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9831,
+                    40.76769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-23T00:00:00.000",
+                "ACCIDENT TIME": "12:59",
+                "LATITUDE": "40.734783",
+                "LONGITUDE": "-73.998726"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.998726,
+                    40.734783
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-20T00:00:00.000",
+                "ACCIDENT TIME": "8:41",
+                "LATITUDE": "40.71449",
+                "LONGITUDE": "-74.01147"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.01147,
+                    40.71449
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-29T00:00:00.000",
+                "ACCIDENT TIME": "15:44",
+                "LATITUDE": "40.83265",
+                "LONGITUDE": "-73.90616"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.90616,
+                    40.83265
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-20T00:00:00.000",
+                "ACCIDENT TIME": "17:10",
+                "LATITUDE": "40.726894",
+                "LONGITUDE": "-73.898315"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.898315,
+                    40.726894
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-07T00:00:00.000",
+                "ACCIDENT TIME": "18:20",
+                "LATITUDE": "40.72773",
+                "LONGITUDE": "-73.90674"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.90674,
+                    40.72773
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-28T00:00:00.000",
+                "ACCIDENT TIME": "11:55",
+                "LATITUDE": "40.641727",
+                "LONGITUDE": "-73.907646"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.907646,
+                    40.641727
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-07T00:00:00.000",
+                "ACCIDENT TIME": "19:00",
+                "LATITUDE": "40.66612",
+                "LONGITUDE": "-73.82225"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.82225,
+                    40.66612
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-17T00:00:00.000",
+                "ACCIDENT TIME": "10:45",
+                "LATITUDE": "40.854477",
+                "LONGITUDE": "-73.854614"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.854614,
+                    40.854477
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-07T00:00:00.000",
+                "ACCIDENT TIME": "1:40",
+                "LATITUDE": "40.73271",
+                "LONGITUDE": "-73.89128"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.89128,
+                    40.73271
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-15T00:00:00.000",
+                "ACCIDENT TIME": "12:40",
+                "LATITUDE": "40.516457",
+                "LONGITUDE": "-74.196884"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.196884,
+                    40.516457
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-09T00:00:00.000",
+                "ACCIDENT TIME": "6:00",
+                "LATITUDE": "40.53111",
+                "LONGITUDE": "-74.157234"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.157234,
+                    40.53111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-30T00:00:00.000",
+                "ACCIDENT TIME": "14:30",
+                "LATITUDE": "40.770256",
+                "LONGITUDE": "-73.91586"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.91586,
+                    40.770256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-22T00:00:00.000",
+                "ACCIDENT TIME": "9:12",
+                "LATITUDE": "40.62237",
+                "LONGITUDE": "-74.0017"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0017,
+                    40.62237
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-14T00:00:00.000",
+                "ACCIDENT TIME": "22:00",
+                "LATITUDE": "40.719135",
+                "LONGITUDE": "-73.78949"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.78949,
+                    40.719135
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-12T00:00:00.000",
+                "ACCIDENT TIME": "17:28",
+                "LATITUDE": "40.843525",
+                "LONGITUDE": "-73.89667"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.89667,
+                    40.843525
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-26T00:00:00.000",
+                "ACCIDENT TIME": "18:16",
+                "LATITUDE": "40.76263",
+                "LONGITUDE": "-73.789185"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.789185,
+                    40.76263
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-29T00:00:00.000",
+                "ACCIDENT TIME": "9:30",
+                "LATITUDE": "40.746788",
+                "LONGITUDE": "-73.827156"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.827156,
+                    40.746788
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-08T00:00:00.000",
+                "ACCIDENT TIME": "20:00",
+                "LATITUDE": "40.681854",
+                "LONGITUDE": "-73.98004"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.98004,
+                    40.681854
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-31T00:00:00.000",
+                "ACCIDENT TIME": "8:20",
+                "LATITUDE": "40.79069",
+                "LONGITUDE": "-73.840866"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.840866,
+                    40.79069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-08T00:00:00.000",
+                "ACCIDENT TIME": "6:57",
+                "LATITUDE": "40.76428",
+                "LONGITUDE": "-73.97302"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.97302,
+                    40.76428
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-19T00:00:00.000",
+                "ACCIDENT TIME": "6:00",
+                "LATITUDE": "40.685486",
+                "LONGITUDE": "-73.82669"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.82669,
+                    40.685486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-08T00:00:00.000",
+                "ACCIDENT TIME": "20:15",
+                "LATITUDE": "40.754154",
+                "LONGITUDE": "-73.9804"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9804,
+                    40.754154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-19T00:00:00.000",
+                "ACCIDENT TIME": "13:40",
+                "LATITUDE": "40.705765",
+                "LONGITUDE": "-73.896576"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.896576,
+                    40.705765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-09T00:00:00.000",
+                "ACCIDENT TIME": "6:07",
+                "LATITUDE": "40.7375",
+                "LONGITUDE": "-73.93385"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.93385,
+                    40.7375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-26T00:00:00.000",
+                "ACCIDENT TIME": "7:45",
+                "LATITUDE": "40.60226",
+                "LONGITUDE": "-74.003075"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.003075,
+                    40.60226
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-08T00:00:00.000",
+                "ACCIDENT TIME": "17:17",
+                "LATITUDE": "40.697437",
+                "LONGITUDE": "-73.95099"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95099,
+                    40.697437
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-06T00:00:00.000",
+                "ACCIDENT TIME": "6:42",
+                "LATITUDE": "40.84999",
+                "LONGITUDE": "-73.93866"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.93866,
+                    40.84999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-28T00:00:00.000",
+                "ACCIDENT TIME": "23:20",
+                "LATITUDE": "40.740875",
+                "LONGITUDE": "-73.89962"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.89962,
+                    40.740875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-29T00:00:00.000",
+                "ACCIDENT TIME": "20:00",
+                "LATITUDE": "40.70115",
+                "LONGITUDE": "-73.94013"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94013,
+                    40.70115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-12T00:00:00.000",
+                "ACCIDENT TIME": "1:55",
+                "LATITUDE": "40.64381",
+                "LONGITUDE": "-73.983986"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.983986,
+                    40.64381
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-12T00:00:00.000",
+                "ACCIDENT TIME": "7:17",
+                "LATITUDE": "40.811073",
+                "LONGITUDE": "-73.90619"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.90619,
+                    40.811073
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-10T00:00:00.000",
+                "ACCIDENT TIME": "5:40",
+                "LATITUDE": "40.655895",
+                "LONGITUDE": "-74.00591"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.00591,
+                    40.655895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-29T00:00:00.000",
+                "ACCIDENT TIME": "19:10",
+                "LATITUDE": "40.845924",
+                "LONGITUDE": "-73.78601"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.78601,
+                    40.845924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-27T00:00:00.000",
+                "ACCIDENT TIME": "20:01",
+                "LATITUDE": "40.696033",
+                "LONGITUDE": "-73.98453"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.98453,
+                    40.696033
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-27T00:00:00.000",
+                "ACCIDENT TIME": "20:39",
+                "LATITUDE": "40.848118",
+                "LONGITUDE": "-73.93089"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.93089,
+                    40.848118
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-16T00:00:00.000",
+                "ACCIDENT TIME": "12:30",
+                "LATITUDE": "40.701954",
+                "LONGITUDE": "-73.958694"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.958694,
+                    40.701954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-22T00:00:00.000",
+                "ACCIDENT TIME": "10:50",
+                "LATITUDE": "40.841187",
+                "LONGITUDE": "-73.93215"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.93215,
+                    40.841187
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-25T00:00:00.000",
+                "ACCIDENT TIME": "13:00",
+                "LATITUDE": "40.615692",
+                "LONGITUDE": "-73.99366"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.99366,
+                    40.615692
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-23T00:00:00.000",
+                "ACCIDENT TIME": "6:58",
+                "LATITUDE": "40.674885",
+                "LONGITUDE": "-73.927765"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.927765,
+                    40.674885
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-06T00:00:00.000",
+                "ACCIDENT TIME": "18:50",
+                "LATITUDE": "40.833233",
+                "LONGITUDE": "-73.8282"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.8282,
+                    40.833233
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-13T00:00:00.000",
+                "ACCIDENT TIME": "3:26",
+                "LATITUDE": "40.585026",
+                "LONGITUDE": "-73.958275"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.958275,
+                    40.585026
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-25T00:00:00.000",
+                "ACCIDENT TIME": "2:11",
+                "LATITUDE": "40.691425",
+                "LONGITUDE": "-73.82079"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.82079,
+                    40.691425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-13T00:00:00.000",
+                "ACCIDENT TIME": "17:15",
+                "LATITUDE": "40.605286",
+                "LONGITUDE": "-73.75185"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.75185,
+                    40.605286
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-05T00:00:00.000",
+                "ACCIDENT TIME": "19:50",
+                "LATITUDE": "40.72592",
+                "LONGITUDE": "-73.72439"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.72439,
+                    40.72592
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-30T00:00:00.000",
+                "ACCIDENT TIME": "8:41",
+                "LATITUDE": "40.743824",
+                "LONGITUDE": "-73.979515"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.979515,
+                    40.743824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-23T00:00:00.000",
+                "ACCIDENT TIME": "10:33",
+                "LATITUDE": "40.75028",
+                "LONGITUDE": "-73.98113"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.98113,
+                    40.75028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-20T00:00:00.000",
+                "ACCIDENT TIME": "15:40",
+                "LATITUDE": "40.8938",
+                "LONGITUDE": "-73.85715"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.85715,
+                    40.8938
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-23T00:00:00.000",
+                "ACCIDENT TIME": "8:00",
+                "LATITUDE": "40.8325",
+                "LONGITUDE": "-73.9044"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9044,
+                    40.8325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-02T00:00:00.000",
+                "ACCIDENT TIME": "18:52",
+                "LATITUDE": "40.817173",
+                "LONGITUDE": "-73.94606"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94606,
+                    40.817173
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-12T00:00:00.000",
+                "ACCIDENT TIME": "10:00",
+                "LATITUDE": "40.745724",
+                "LONGITUDE": "-73.97813"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.97813,
+                    40.745724
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-03T00:00:00.000",
+                "ACCIDENT TIME": "5:12",
+                "LATITUDE": "40.642483",
+                "LONGITUDE": "-73.97425"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.97425,
+                    40.642483
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-11T00:00:00.000",
+                "ACCIDENT TIME": "21:00",
+                "LATITUDE": "40.843994",
+                "LONGITUDE": "-73.89752"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.89752,
+                    40.843994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-27T00:00:00.000",
+                "ACCIDENT TIME": "22:20",
+                "LATITUDE": "40.656944",
+                "LONGITUDE": "-73.88082"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.88082,
+                    40.656944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-11T00:00:00.000",
+                "ACCIDENT TIME": "15:45",
+                "LATITUDE": "40.742676",
+                "LONGITUDE": "-73.839516"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.839516,
+                    40.742676
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-31T00:00:00.000",
+                "ACCIDENT TIME": "5:15",
+                "LATITUDE": "40.704544",
+                "LONGITUDE": "-73.72988"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.72988,
+                    40.704544
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-27T00:00:00.000",
+                "ACCIDENT TIME": "22:06",
+                "LATITUDE": "40.864132",
+                "LONGITUDE": "-73.89132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.89132,
+                    40.864132
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-14T00:00:00.000",
+                "ACCIDENT TIME": "16:00",
+                "LATITUDE": "40.59287",
+                "LONGITUDE": "-73.99607"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.99607,
+                    40.59287
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-25T00:00:00.000",
+                "ACCIDENT TIME": "11:00",
+                "LATITUDE": "40.733967",
+                "LONGITUDE": "-73.87177"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.87177,
+                    40.733967
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-27T00:00:00.000",
+                "ACCIDENT TIME": "14:52",
+                "LATITUDE": "40.68358",
+                "LONGITUDE": "-73.97617"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.97617,
+                    40.68358
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-22T00:00:00.000",
+                "ACCIDENT TIME": "17:05",
+                "LATITUDE": "40.66336",
+                "LONGITUDE": "-73.982994"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.982994,
+                    40.66336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-08T00:00:00.000",
+                "ACCIDENT TIME": "19:00",
+                "LATITUDE": "40.647728",
+                "LONGITUDE": "-73.97634"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.97634,
+                    40.647728
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-21T00:00:00.000",
+                "ACCIDENT TIME": "8:30",
+                "LATITUDE": "40.77161",
+                "LONGITUDE": "-73.99046"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.99046,
+                    40.77161
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-27T00:00:00.000",
+                "ACCIDENT TIME": "15:30",
+                "LATITUDE": "40.63604",
+                "LONGITUDE": "-73.74029"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.74029,
+                    40.63604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-28T00:00:00.000",
+                "ACCIDENT TIME": "11:28",
+                "LATITUDE": "40.702724",
+                "LONGITUDE": "-73.95002"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95002,
+                    40.702724
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-16T00:00:00.000",
+                "ACCIDENT TIME": "11:30",
+                "LATITUDE": "40.906006",
+                "LONGITUDE": "-73.85041"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.85041,
+                    40.906006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-06T00:00:00.000",
+                "ACCIDENT TIME": "17:35",
+                "LATITUDE": "40.856388",
+                "LONGITUDE": "-73.90177"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.90177,
+                    40.856388
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-22T00:00:00.000",
+                "ACCIDENT TIME": "19:55",
+                "LATITUDE": "40.827854",
+                "LONGITUDE": "-73.95118"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95118,
+                    40.827854
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-27T00:00:00.000",
+                "ACCIDENT TIME": "12:40",
+                "LATITUDE": "40.65661",
+                "LONGITUDE": "-73.93091"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.93091,
+                    40.65661
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-21T00:00:00.000",
+                "ACCIDENT TIME": "10:00",
+                "LATITUDE": "40.657864",
+                "LONGITUDE": "-73.89227"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.89227,
+                    40.657864
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-16T00:00:00.000",
+                "ACCIDENT TIME": "1:30",
+                "LATITUDE": "40.764744",
+                "LONGITUDE": "-73.974075"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.974075,
+                    40.764744
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-08T00:00:00.000",
+                "ACCIDENT TIME": "7:40",
+                "LATITUDE": "40.83997",
+                "LONGITUDE": "-73.85741"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.85741,
+                    40.83997
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-02T00:00:00.000",
+                "ACCIDENT TIME": "12:30",
+                "LATITUDE": "40.68297",
+                "LONGITUDE": "-73.82824"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.82824,
+                    40.68297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-12T00:00:00.000",
+                "ACCIDENT TIME": "17:55",
+                "LATITUDE": "40.6204",
+                "LONGITUDE": "-73.960495"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.960495,
+                    40.6204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-16T00:00:00.000",
+                "ACCIDENT TIME": "15:00",
+                "LATITUDE": "40.66705",
+                "LONGITUDE": "-73.77411"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.77411,
+                    40.66705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-19T00:00:00.000",
+                "ACCIDENT TIME": "18:03",
+                "LATITUDE": "40.88078",
+                "LONGITUDE": "-73.88347"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.88347,
+                    40.88078
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-10T00:00:00.000",
+                "ACCIDENT TIME": "17:45",
+                "LATITUDE": "40.609642",
+                "LONGITUDE": "-73.89738"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.89738,
+                    40.609642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-17T00:00:00.000",
+                "ACCIDENT TIME": "1:30",
+                "LATITUDE": "40.68573",
+                "LONGITUDE": "-73.80567"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.80567,
+                    40.68573
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-20T00:00:00.000",
+                "ACCIDENT TIME": "16:45",
+                "LATITUDE": "40.681126",
+                "LONGITUDE": "-73.96446"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.96446,
+                    40.681126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-28T00:00:00.000",
+                "ACCIDENT TIME": "16:18",
+                "LATITUDE": "40.648224",
+                "LONGITUDE": "-73.960655"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.960655,
+                    40.648224
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-19T00:00:00.000",
+                "ACCIDENT TIME": "10:19",
+                "LATITUDE": "40.697662",
+                "LONGITUDE": "-73.98615"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.98615,
+                    40.697662
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-26T00:00:00.000",
+                "ACCIDENT TIME": "19:35",
+                "LATITUDE": "40.68725",
+                "LONGITUDE": "-73.87198"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.87198,
+                    40.68725
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-07T00:00:00.000",
+                "ACCIDENT TIME": "9:50",
+                "LATITUDE": "40.75548",
+                "LONGITUDE": "-73.74173"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.74173,
+                    40.75548
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-04T00:00:00.000",
+                "ACCIDENT TIME": "3:42",
+                "LATITUDE": "40.81608",
+                "LONGITUDE": "-73.917694"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.917694,
+                    40.81608
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-16T00:00:00.000",
+                "ACCIDENT TIME": "9:04",
+                "LATITUDE": "40.6209",
+                "LONGITUDE": "-74.01758"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.01758,
+                    40.6209
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-06T00:00:00.000",
+                "ACCIDENT TIME": "6:25",
+                "LATITUDE": "40.680454",
+                "LONGITUDE": "-73.87611"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.87611,
+                    40.680454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-17T00:00:00.000",
+                "ACCIDENT TIME": "2:45",
+                "LATITUDE": "40.814266",
+                "LONGITUDE": "-73.912964"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.912964,
+                    40.814266
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-10T00:00:00.000",
+                "ACCIDENT TIME": "17:00",
+                "LATITUDE": "40.769222",
+                "LONGITUDE": "-73.92221"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.92221,
+                    40.769222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-27T00:00:00.000",
+                "ACCIDENT TIME": "14:00",
+                "LATITUDE": "40.58695",
+                "LONGITUDE": "-74.16416"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.16416,
+                    40.58695
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-21T00:00:00.000",
+                "ACCIDENT TIME": "13:56",
+                "LATITUDE": "40.81655",
+                "LONGITUDE": "-73.91955"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.91955,
+                    40.81655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-04T00:00:00.000",
+                "ACCIDENT TIME": "0:55",
+                "LATITUDE": "40.67711",
+                "LONGITUDE": "-73.78129"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.78129,
+                    40.67711
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-23T00:00:00.000",
+                "ACCIDENT TIME": "17:20",
+                "LATITUDE": "40.766685",
+                "LONGITUDE": "-73.892136"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.892136,
+                    40.766685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-10T00:00:00.000",
+                "ACCIDENT TIME": "23:00",
+                "LATITUDE": "40.758305",
+                "LONGITUDE": "-73.85561"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.85561,
+                    40.758305
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-04T00:00:00.000",
+                "ACCIDENT TIME": "17:00",
+                "LATITUDE": "40.76733",
+                "LONGITUDE": "-73.984314"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.984314,
+                    40.76733
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-21T00:00:00.000",
+                "ACCIDENT TIME": "15:45",
+                "LATITUDE": "40.78383",
+                "LONGITUDE": "-73.97783"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.97783,
+                    40.78383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-15T00:00:00.000",
+                "ACCIDENT TIME": "19:25",
+                "LATITUDE": "40.85543",
+                "LONGITUDE": "-73.84388"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.84388,
+                    40.85543
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-16T00:00:00.000",
+                "ACCIDENT TIME": "18:22",
+                "LATITUDE": "40.6094",
+                "LONGITUDE": "-74.09011"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.09011,
+                    40.6094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-13T00:00:00.000",
+                "ACCIDENT TIME": "17:01",
+                "LATITUDE": "40.883633",
+                "LONGITUDE": "-73.88517"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.88517,
+                    40.883633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-18T00:00:00.000",
+                "ACCIDENT TIME": "17:00",
+                "LATITUDE": "40.75089",
+                "LONGITUDE": "-73.75113"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.75113,
+                    40.75089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-09T00:00:00.000",
+                "ACCIDENT TIME": "19:25",
+                "LATITUDE": "40.68064",
+                "LONGITUDE": "-73.89672"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.89672,
+                    40.68064
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-17T00:00:00.000",
+                "ACCIDENT TIME": "16:21",
+                "LATITUDE": "40.721523",
+                "LONGITUDE": "-73.94913"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94913,
+                    40.721523
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-10T00:00:00.000",
+                "ACCIDENT TIME": "16:58",
+                "LATITUDE": "40.592484",
+                "LONGITUDE": "-73.99494"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.99494,
+                    40.592484
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-23T00:00:00.000",
+                "ACCIDENT TIME": "11:50",
+                "LATITUDE": "40.619305",
+                "LONGITUDE": "-74.16101"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.16101,
+                    40.619305
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-25T00:00:00.000",
+                "ACCIDENT TIME": "5:39",
+                "LATITUDE": "40.63834",
+                "LONGITUDE": "-73.93188"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.93188,
+                    40.63834
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-27T00:00:00.000",
+                "ACCIDENT TIME": "11:30",
+                "LATITUDE": "40.72452",
+                "LONGITUDE": "-73.992485"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.992485,
+                    40.72452
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-12T00:00:00.000",
+                "ACCIDENT TIME": "9:55",
+                "LATITUDE": "40.903683",
+                "LONGITUDE": "-73.89742"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.89742,
+                    40.903683
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-08T00:00:00.000",
+                "ACCIDENT TIME": "15:00",
+                "LATITUDE": "40.745235",
+                "LONGITUDE": "-73.937706"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.937706,
+                    40.745235
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-19T00:00:00.000",
+                "ACCIDENT TIME": "18:30",
+                "LATITUDE": "40.75048",
+                "LONGITUDE": "-73.99472"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.99472,
+                    40.75048
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-04T00:00:00.000",
+                "ACCIDENT TIME": "21:15",
+                "LATITUDE": "40.7606",
+                "LONGITUDE": "-73.96434"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.96434,
+                    40.7606
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-24T00:00:00.000",
+                "ACCIDENT TIME": "8:20",
+                "LATITUDE": "40.604664",
+                "LONGITUDE": "-74.02189"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.02189,
+                    40.604664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-23T00:00:00.000",
+                "ACCIDENT TIME": "14:50",
+                "LATITUDE": "40.68676",
+                "LONGITUDE": "-73.78449"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.78449,
+                    40.68676
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-30T00:00:00.000",
+                "ACCIDENT TIME": "17:15",
+                "LATITUDE": "40.866062",
+                "LONGITUDE": "-73.92251"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.92251,
+                    40.866062
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-22T00:00:00.000",
+                "ACCIDENT TIME": "19:20",
+                "LATITUDE": "40.836895",
+                "LONGITUDE": "-73.8736"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.8736,
+                    40.836895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-24T00:00:00.000",
+                "ACCIDENT TIME": "21:20",
+                "LATITUDE": "40.737335",
+                "LONGITUDE": "-73.70833"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.70833,
+                    40.737335
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-08T00:00:00.000",
+                "ACCIDENT TIME": "18:00",
+                "LATITUDE": "40.79536",
+                "LONGITUDE": "-73.96942"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.96942,
+                    40.79536
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-28T00:00:00.000",
+                "ACCIDENT TIME": "14:00",
+                "LATITUDE": "40.668022",
+                "LONGITUDE": "-73.73711"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.73711,
+                    40.668022
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-19T00:00:00.000",
+                "ACCIDENT TIME": "8:20",
+                "LATITUDE": "40.677773",
+                "LONGITUDE": "-73.93587"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.93587,
+                    40.677773
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-29T00:00:00.000",
+                "ACCIDENT TIME": "17:37",
+                "LATITUDE": "40.738953",
+                "LONGITUDE": "-73.98012"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.98012,
+                    40.738953
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-03T00:00:00.000",
+                "ACCIDENT TIME": "8:00",
+                "LATITUDE": "40.765224",
+                "LONGITUDE": "-73.9317"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9317,
+                    40.765224
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-11T00:00:00.000",
+                "ACCIDENT TIME": "13:40",
+                "LATITUDE": "40.66496",
+                "LONGITUDE": "-73.82226"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.82226,
+                    40.66496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-12T00:00:00.000",
+                "ACCIDENT TIME": "20:05",
+                "LATITUDE": "40.70453",
+                "LONGITUDE": "-73.817245"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.817245,
+                    40.70453
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-06T00:00:00.000",
+                "ACCIDENT TIME": "16:43",
+                "LATITUDE": "40.680447",
+                "LONGITUDE": "-73.87128"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.87128,
+                    40.680447
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-08T00:00:00.000",
+                "ACCIDENT TIME": "19:15",
+                "LATITUDE": "40.680447",
+                "LONGITUDE": "-73.95046"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95046,
+                    40.680447
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-02T00:00:00.000",
+                "ACCIDENT TIME": "13:25",
+                "LATITUDE": "40.72709",
+                "LONGITUDE": "-73.991554"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.991554,
+                    40.72709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-03T00:00:00.000",
+                "ACCIDENT TIME": "1:05",
+                "LATITUDE": "40.82325",
+                "LONGITUDE": "-73.88277"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.88277,
+                    40.82325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-30T00:00:00.000",
+                "ACCIDENT TIME": "14:00",
+                "LATITUDE": "40.69245",
+                "LONGITUDE": "-73.811005"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.811005,
+                    40.69245
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-24T00:00:00.000",
+                "ACCIDENT TIME": "16:00",
+                "LATITUDE": "40.71406",
+                "LONGITUDE": "-73.95292"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95292,
+                    40.71406
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-22T00:00:00.000",
+                "ACCIDENT TIME": "15:00",
+                "LATITUDE": "40.631527",
+                "LONGITUDE": "-73.948044"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.948044,
+                    40.631527
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-23T00:00:00.000",
+                "ACCIDENT TIME": "11:00",
+                "LATITUDE": "40.757336",
+                "LONGITUDE": "-73.98973"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.98973,
+                    40.757336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-07T00:00:00.000",
+                "ACCIDENT TIME": "14:35",
+                "LATITUDE": "40.752644",
+                "LONGITUDE": "-74.00428"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.00428,
+                    40.752644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-13T00:00:00.000",
+                "ACCIDENT TIME": "13:15",
+                "LATITUDE": "40.86369",
+                "LONGITUDE": "-73.91707"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.91707,
+                    40.86369
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-14T00:00:00.000",
+                "ACCIDENT TIME": "18:19",
+                "LATITUDE": "40.59758",
+                "LONGITUDE": "-73.99594"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.99594,
+                    40.59758
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-12T00:00:00.000",
+                "ACCIDENT TIME": "8:32",
+                "LATITUDE": "40.79909",
+                "LONGITUDE": "-73.93478"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.93478,
+                    40.79909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-04T00:00:00.000",
+                "ACCIDENT TIME": "0:00",
+                "LATITUDE": "40.65072",
+                "LONGITUDE": "-74.00303"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.00303,
+                    40.65072
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-08T00:00:00.000",
+                "ACCIDENT TIME": "10:20",
+                "LATITUDE": "40.603203",
+                "LONGITUDE": "-73.937584"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.937584,
+                    40.603203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-10T00:00:00.000",
+                "ACCIDENT TIME": "9:40",
+                "LATITUDE": "40.669735",
+                "LONGITUDE": "-73.93104"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.93104,
+                    40.669735
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-09T00:00:00.000",
+                "ACCIDENT TIME": "20:04",
+                "LATITUDE": "40.63831",
+                "LONGITUDE": "-73.953476"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.953476,
+                    40.63831
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-28T00:00:00.000",
+                "ACCIDENT TIME": "19:00",
+                "LATITUDE": "40.70785",
+                "LONGITUDE": "-73.89725"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.89725,
+                    40.70785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-03T00:00:00.000",
+                "ACCIDENT TIME": "14:50",
+                "LATITUDE": "40.691326",
+                "LONGITUDE": "-73.95646"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95646,
+                    40.691326
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-03T00:00:00.000",
+                "ACCIDENT TIME": "16:00",
+                "LATITUDE": "40.789253",
+                "LONGITUDE": "-73.85182"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.85182,
+                    40.789253
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ACCIDENT DATE": "2019-08-04T00:00:00.000",
+                "ACCIDENT TIME": "20:50",
+                "LATITUDE": "40.798252",
+                "LONGITUDE": "-73.95249"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95249,
+                    40.798252
+                ]
+            }
+        }
+    ]
+}
