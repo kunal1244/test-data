@@ -28,11 +28,11 @@ it requires sourcing map images from third-party tile repositories such as [Open
 | Documentation           | Extensive                  | Limited              | Extensive             | Extensive         |
 | Community Support       | Highly Active              | Active               | Fairly Active         | Fairly Active     |
 | Ease of  implementation | Fast and  extremely simple | Fairly easy          | APIKey-Based  Access  | High Complexity   |
-| Feature Richness        | Major use-cases only       | Major use-cases only | High, Freemium  model | High              |
+| Feature Richness        | Moderate, major use-cases only       | Moderate | High, Freemium  model | High              |
 | Resource Size           | Light (39.9 kB)            | Heavy (867.9 kB)     | Heavy (218.9 kB)      | Medium (151.7 kB) |
 
 
-Leaflet supports a large number of [support plugins](https://leafletjs.com/plugins.html), the ones included in the project are mentioned below along with their use cases.
+Leaflet supports a large number of [third-party plugins](https://leafletjs.com/plugins.html), the ones included in the project are mentioned below along with their use cases.
 
 - [Leaflet-choropleth](https://github.com/timwis/leaflet-choropleth): Color Scaled Maps for stastically varied regions
 - [Leaflet.heat](https://github.com/Leaflet/Leaflet.heat): Heatmaps
@@ -56,6 +56,19 @@ These represent singular instances which signify the occurence of an event at a 
 and ***Longitude** being mandatory attributes. Any such file can easily be converted to a GeoJSON format using open-sourced tools like 
 [CSV2GEOJSON](https://odileeds.github.io/CSV2GeoJSON/).
 
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Coors Field",
+                "amenity": "Baseball Stadium",
+                "popupContent": "This is where the Rockies play!"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-104.99404, 39.75621]
+            }
+        };
+
 Example sources - Any CSV file with the given format, i.e., possessing 2 mandatory geolocational columns (Longitude and Latitude) in addition to other required properties.
 
 [Sample Point Dataset](https://raw.githubusercontent.com/kunal1244/test-data/main/accidents.csv)
@@ -66,6 +79,28 @@ These represent the boundaries of a certain geographical region such as a county
 GeoJSON format, or needs to be converted from TopoJSON, or a combination of .SHP (shapefile) and .DBF (database) files. While TopoJSON files can easily be converted 
 leaflet-omnivore, SHP and DBF files need to be feeded into a tool like [mapshaper](https://mapshaper.org) to generate the resultant GeoJSON.
 
+        {
+            "type" : "FeatureCollection", 
+            "features": [
+                {
+                    "type" : "Feature",
+                    "geometry" : {
+                        "type" : "Polygon",
+                        "coordinates" : [[[0.16654926225612599,51.50627250259322],[0.16654926225612599,51.51588053174041],
+                        ......................
+                        ,[0.16654926225612599,51.50627250259322]]]
+                    },
+                    "properties" : {
+                        "ISO" : "GBR",
+                        "NAME_0" : "United Kingdom",
+                        .............................
+                        "ENGTYPE_2":"London Borough",
+                        "VARNAME_2":""
+                    }
+                },
+            ],
+            ..........................
+        }
 Example sources - 
 - [DIVA-GIS](https://diva-gis.org/data)
 - [Natural Earth](https://naturalearthdata.com/downloads/)
@@ -108,11 +143,70 @@ The dataset required for creating heatmaps are sets of JSON arrays, which can ea
 
 ## Time-Bound Data
 
+The Range Slider displays the markers pertaining to the duration between a given time-period, and this time needs to be added in the DATETIME or epoch format. The data required for this is a Point-based Geometry as well, which can be converted using CSV2GEOJSON with ease.
 
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "ACCIDENT DATE": "2019-08-05T00:00:00.000",
+                        "ACCIDENT TIME": "16:30",
+                        "LATITUDE": "40.676052",
+                        "LONGITUDE": "-73.790184"
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            -73.790184,
+                            40.676052
+                        ]
+                    }
+                },
+                .....................
+            ]
+        }
 
+[Sample Time-Bound Dataset](https://raw.githubusercontent.com/kunal1244/test-data/main/accidents.geojson)
 
+## Data Visualization
 
-## 
+Data pertaining to a specific region or location can be directly accessed on the modal that pops up when an item is clicked. This data can either be stored in the properties key of the GeoJSON object, or can also be derived from external JSON sources by comparing the geolocational Names/IDs.
 
+Example of data being stored inside the properties key
 
+        "properties": {
+            "geo_id" : "0400000US04",
+            "fips_state":"04", 
+            "name":"Arizona", 
+            "iso_3166_2":"AZ", 
+            "census":6392017, 
+            "pop_estimataes_base":6392310, 
+            "pop_2010":6411999,
+            "pop_2011":6472867, 
+            "pop_2012":6556236,
+            "pop_2013":6634997,
+            "pop_2014":6731484
+        }
+       
+Example of external data source
 
+        {
+           "Bronx": {
+              "CensusTract": 12205703290444,
+              "TotalPop": 1428357,
+              "Men": 672447,
+              "Women": 755910,
+              "Hispanic": "17626.400000000016",
+              "White": "4340.000000000001",
+              "Black": "9735.599999999995",
+              "Native": "68.89999999999999",
+              "Asian": "1270.2000000000005",
+              ......................
+              "Citizen": 820317,
+            },
+            ............................
+        }
+
+[Sample GeoJSON](https://raw.githubusercontent.com/kunal1244/test-data/main/nyshp.geojson) and [Associated Data Source](https://raw.githubusercontent.com/kunal1244/test-data/main/ny_boroughs.json)
